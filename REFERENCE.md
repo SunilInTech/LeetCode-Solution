@@ -195,12 +195,4 @@
 * Annual Programming Challenges
    * [Advent of Code](https://adventofcode.com/)
 
-## Blogs
 
-- Computer Science
-   - [小林 - 图解计算机基础](https://github.com/xiaolincoder/CS-Base)
-   - [飞哥 - 开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu)
-- Golang Design
-   - [雨痕 - Go 程序设计](https://www.yuque.com/qyuhen/go)
-   - [Draven - Go 语言设计与实现](https://draveness.me/golang)
-   - [The golang.design Initiative](https://golang.design)
